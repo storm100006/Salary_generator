@@ -23,7 +23,7 @@ p11
 sS'_data'
 p12
 g2
-(cpandas.core.internals
+(cpandas.core.internals.managers
 BlockManager
 p13
 g4

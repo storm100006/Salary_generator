@@ -605,7 +605,7 @@ class Ui_MainWindow(pickleHandler):
             self.myVis.reportRanges()
         messStr = 'Your report is written in reports/BandsData.html'
         if not self.GradesandRanges_2.isChecked():
-            messStr = messStr + ' and reports/ZonesData.html'
+            messStr = messStr + ' and reports/Bands&ZonesData.html'
         QtGui.QMessageBox.information(MainWindow, 'Done', messStr + '.', QtGui.QMessageBox.Ok)
 
     @QtCore.pyqtSlot()

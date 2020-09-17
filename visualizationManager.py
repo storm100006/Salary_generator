@@ -222,7 +222,7 @@ class Visualizer(baseUtils):
               ]
         index = pd.MultiIndex.from_tuples(tup, names=['Band#', 'Zone#'])
         print tup
-        rangesData = pd.DataFrame(index=index, columns=['JE Point', 'Min', 'Max'])
+        rangesData = pd.DataFrame(index=index, columns=['JE Point', 'Min', 'Mid', 'Max'])
         for gradeNum, eachGrade in self.userData['GradesandRangesCode']['range'].iteritems():
             if len(eachGrade) == 0:
                 continue
@@ -232,14 +232,16 @@ class Visualizer(baseUtils):
                 tmp = rangesData.loc[(gradeNum + 1, rng)]['JE Point']
                 rangesData.loc[(gradeNum + 1, rng)]['JE Point'] = int(eachRange['JE Point'])
                 rangesData.loc[(gradeNum + 1, rng)]['Min'] = int(eachRange['Min'])
+                rangesData.loc[(gradeNum + 1, rng)]['Mid'] = int((float(eachRange['Min']) + float(eachRange['Max'])) / 2)  #新加
                 rangesData.loc[(gradeNum + 1, rng)]['Max'] = int(eachRange['Max'])
                 print '->'
                 print int(eachRange['ID'])
 
             print '----------'
 
-        rangesData['Max'] = rangesData['Max'].map(lambda x: ('{:,.0f}').format(x))
-        rangesData['Min'] = rangesData['Min'].map(lambda x: ('{:,.0f}').format(x))
+        rangesData['Max'] = rangesData['Max'].map(lambda x: ('${:,.0f}').format(x))
+        rangesData['Mid'] = rangesData['Mid'].map(lambda x: ('${:,.0f}').format(x))  #新加
+        rangesData['Min'] = rangesData['Min'].map(lambda x: ('${:,.0f}').format(x))
         print rangesData.sort_index()
         rangesData.sort_index().to_html('reports/Bands&Zones.html')
 
@@ -323,8 +325,8 @@ class Visualizer(baseUtils):
         if not policy:
             plt.plot(X, Y, 'o' + color)
         line = np.poly1d(np.polyfit(X, Y, 1))
-        X = X.append(pd.Series(X.min() - (X.max() - X.min()) * 0.25))
-        X = X.append(pd.Series(X.max() + (X.max() - X.min()) * 0.25))
+        X = X.append(pd.Series(X.min() - X.min() + int(25)))  #新加
+        X = X.append(pd.Series(X.max() + (X.max() - X.min()) * 0.75))  #新加
         plt.plot(X, line(X), color)
         from sklearn.metrics import r2_score
         coefficient_of_dermination = r2_score(Y, line(X[:-2]))
