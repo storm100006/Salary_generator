@@ -1,0 +1,61 @@
+﻿CompanyID,Industry,Description,Size,ROA,TotalSales1000s,BaseSalaryDivTotalComp,BenefitsDivBaseSalary,StockOptionsDivBaseSalary,BonusDivBaseSalary
+1,Software,"internetworking products including ATM switches, Routers, hubs, remote",Large,Unknown,0,0.75,0.29,0,0.05
+2,Software,web software & services,Large,0.12,0,0.55,0.28,0.41,0.15
+3,Financial,online banking,Medium,2.33,0,0.48,0.32,0.55,0.2
+4,Software,network services & web based IT,Medium,-11.98,0,0.76,0.3,0,0.01
+5,Software,digital integrated circuits,Medium,3.86,0,0.68,0.26,0.18,0.03
+6,Computer/Hardware,mfg personal computers,Medium,5.3,0,0.59,0.27,0.38,0.06
+7,Computer/Hardware,"servers, storage products",Large,-8.16,0,0.77,0.28,0.02,0.01
+8,Computer/Hardware,advanced IT,Large,4.64,0,0.68,0.39,0.01,0.08
+9,Semiconductors,"chips, boards & software",Large,12.11,0,0.58,0.24,0.3,0.19
+10,Software,medical technology applications software,Medium,-0.02,0,0.75,0.31,0.01,0
+11,Manufacturing,wafer processing equipment,Medium,-9.08,0,0.69,0.27,0.15,0.02
+12,Software,data mining products,Large,5.94,0,0.76,0.26,0.04,0.02
+13,Computer/Hardware,high-end open scalable systems,Medium,-4.24,0,0.77,0.25,0.04,0.01
+14,Software,graphics software,Medium,7.18,0,0.67,0.43,0,0.06
+15,Software,"social networks, consumer communications",Large,2.39,0,0.64,0.34,0.05,0.16
+16,Semiconductors,"digital cameras, scanners",Medium,0.05,0,0.79,0.19,0.02,0.05
+17,Financial,ventue capital,Small,-0.07,0,0.72,0.25,0,0.14
+18,Manufacturing,"personal PCs, printers, scanners",Large,6.88,0,0.7,0.42,0,0
+19,Software,enterprise systems and services,Large,15.35,0,0.47,0.37,0.68,0.08
+20,Computer/Hardware,personal paging,Small,Unknown,0,0.78,0.25,0,0.04
+21,Financial,regional bank,Small,0.02,0,0.73,0.26,0.09,0.02
+22,Semiconductors,digital & mixed signal semiconductor products,Medium,-23.93,0,0.72,0.27,0.11,0.02
+23,Software,business-to-business software,Small,-5.99,0,0.72,0.18,0.19,0.02
+24,Manufacturing,chemical monitoring devices,Medium,Unknown,0,0.76,0.32,0,0
+25,Software,storage devices,Medium,Unknown,0,0.73,0.25,0.08,0.03
+26,Software,entertainment industry applications,Large,-0.53,0,0.67,0.32,0.08,0.08
+27,Manufacturing,computer accessories,Large,1.52,0,0.75,0.27,0,0.08
+28,Semiconductors,"chips, boards & software",Small,5.78,0,0.75,0.22,0.09,0.02
+29,Computer/Hardware,direct marketer of computers,Large,9.06,0,0.54,0.28,0.57,0.01
+30,Financial,financial planning,Small,12.04,0,0.7,0.23,0.12,0.07
+31,Manufacturing,wireless communications,Medium,3.95,0,0.72,0.36,0,0.03
+32,Financial,international banking,Medium,1.84,0,0.64,0.3,0.18,0.09
+33,Software,medical technology and equipment,Medium,6.58,0,0.65,0.17,0.26,0.12
+34,Semiconductors,processing equipment for semiconductor industry,Small,Unknown,0,0.77,0.22,0.07,0.01
+35,Computer/Hardware,signal processing,Small,8.32,0,0.79,0.22,0.02,0.02
+36,Manufacturing,cellular phones,Medium,5.52,0,0.63,0.5,0,0.08
+37,Semiconductors,integrated circuits,Small,-7.91,0,0.69,0.22,0.23,0.01
+38,Software,"games, entertainment applications",Medium,11.51,0,0.82,0.2,0,0.01
+39,Software,employee benefits software,Medium,2.6,0,0.62,0.36,0.18,0.08
+40,Software,"information technology, banking",Small,7.55,0,0.67,0.35,0.09,0.04
+41,Software,software for finance and HRM,Medium,6,0,0.43,0.23,1.04,0.05
+42,Manufacturing,pollution monitoring device,Small,11.45,0,0.79,0.26,0,0
+43,Computer/Hardware,wireless communications,Medium,12.31,0,0.73,0.28,0.04,0.05
+44,Financial,international banking,Small,4.88,0,0.47,0.28,0.77,0.09
+45,Software,satellite-based navigation software,Small,-10.2,0,0.75,0.19,0.12,0.02
+46,Software,software for corporate intranets,Small,Unknown,0,0.73,0.23,0.11,0.04
+47,Software,health insurance systems,Medium,18.21,0,0.69,0.3,0.06,0.08
+48,Computer/Hardware,electronic messaging,Small,0.34,0,0.72,0.28,0.06,0.06
+49,Semiconductors,chemical monitoring & management,Small,-12.34,0,0.76,0.26,0.03,0.02
+50,Financial,ventue capital,Small,10.4,0,0.69,0.29,0.1,0.06
+51,Software,telecommunications,Small,9.43,0,0.41,0.22,1.19,0.03
+52,Software,environmental monitoring,Medium,2.9,0,0.65,0.26,0.18,0.09
+53,Software,business-to-business software,Small,12.35,0,0.52,0.19,0.69,0.04
+54,Software,imaging software,Small,-18.3,0,0.68,0.24,0.22,0
+55,Software,web software services,Small,-0.58,0,0.48,0.24,0.76,0.07
+56,Software,R&D for weapons & space systems,Large,Unknown,0,0.8,0.25,0,0
+57,Software,R&D for defense industry,Large,Unknown,0,0.76,0.28,0.01,0.03
+58,Computer/Hardware,sensing devices for security applications,Large,Unknown,0,0.75,0.28,0.01,0.04
+59,Software,engineering for aerospace industry,Large,Unknown,0,0.76,0.28,0.01,0.03
+60,Software,visual data transmission,Medium,Unknown,0,0.76,0.22,0.05,0.05

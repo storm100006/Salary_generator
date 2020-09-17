@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4493d526-3ec8-42a8-8653-1bc932d6f3de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UqBI2fNxCjFoZ4DxpZQiEOclKt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="phase ii-27" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="phase ii-27" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Phase II NewSession">
+    <configuration name="BandsandZonesCode" type="PythonConfigurationType" factoryName="Python">
+      <module name="phase ii-27" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BandsandZonesCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Phase II NewSession" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="phase ii-27" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase II NewSession.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Phase II NewSession" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\abcd2\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4493d526-3ec8-42a8-8653-1bc932d6f3de" name="Default Changelist" comment="" />
+      <created>1576074162277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576074162277</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576082468621">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576082468621" />
+    <state x="694" y="301" key="EnvironmentVariablesDialog" timestamp="1576076774507">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="694" y="301" key="EnvironmentVariablesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576076774507" />
+    <state x="739" y="295" key="FileChooserDialogImpl" timestamp="1576077118975">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576077118975" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1576337185631">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576337185631" />
+    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576074892574" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1576337185631">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576337185631" />
+    <state width="1899" height="363" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576074892573" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1576337185631">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576337185631" />
+    <state width="1899" height="363" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576074892573" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1576337185631">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576337185631" />
+    <state width="1899" height="363" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576074892573" />
+    <state width="1899" height="235" key="GridCell.Tab.1.bottom" timestamp="1576337099149">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="235" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576337099149" />
+    <state width="1899" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576074892574" />
+    <state width="1899" height="235" key="GridCell.Tab.1.center" timestamp="1576337099148">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="235" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576337099148" />
+    <state width="1899" height="363" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576074892574" />
+    <state width="1899" height="235" key="GridCell.Tab.1.left" timestamp="1576337099148">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="235" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576337099148" />
+    <state width="1899" height="363" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576074892574" />
+    <state width="1899" height="235" key="GridCell.Tab.1.right" timestamp="1576337099148">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="235" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576337099148" />
+    <state width="1899" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576074892574" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1576260400233">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576260400233" />
+    <state x="2381" y="182" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576074958672" />
+    <state x="404" y="379" key="com.intellij.ide.util.TipDialog" timestamp="1576337246649">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="404" y="379" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576337246649" />
+    <state x="2324" y="379" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576074909162" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GradesandRangesCode.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GradesandRangesCode.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GradesandRangesCode.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GradesandRangesCode.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GradesandRangesCode.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GradesandRangesCode.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GradesandRangesCode.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GradesandRangesCode.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.rangeData" />
+        <watch expression="self.BandsandZones.released" />
+        <watch expression="grouped" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
